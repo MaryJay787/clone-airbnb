@@ -5,6 +5,8 @@ ruby "2.7.0"
 
 gem "bootsnap", require: false
 
+gem "devise"
+
 gem "importmap-rails"
 
 gem "jbuilder"
